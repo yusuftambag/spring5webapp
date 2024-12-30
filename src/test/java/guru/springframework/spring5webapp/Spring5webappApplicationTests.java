@@ -11,7 +11,7 @@ public class Spring5webappApplicationTests {
 
 	@Test
 	public void contextLoads() {
-      System.out.println("deneme2");
+      System.out.println("deneme233");
 	}
 
 }
